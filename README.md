@@ -1,5 +1,5 @@
 # TST Cruise - Finding the Best Group Price
-This application has a main method at `src/main/scala/byrd/riley/bestcruiseprice/main`.
+This application has a main method at `src/main/scala/main.scala`.
 When you run the application, you'll be prompted to input Rates and Cabin Prices.  You can copy the example input from the Exercise directions.  I've also pasted it below for convenience.  Make sure that each Rate and CabinPrice is on a separate line and that you press enter on a blank line after finishing.
 
 Rates
